@@ -113,3 +113,19 @@ nav {
  .nav li a{
   color: rgb(66, 64, 64);
 }
+
+
+
+
+.mt-gap{
+  margin-top: 150px;
+}
+
+
+.header-area{
+  position: sticky;
+  top: 0;
+  background: #46b4d7;
+  background: linear-gradient(to right,#98d3f1, #46b4d7);
+  z-index: 99999999;
+}
